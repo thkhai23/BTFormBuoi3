@@ -1,0 +1,15 @@
+Z:\BaiTH1\BuoiTH1\ThietKeForm\obj\Debug\ThietKeForm.csproj.AssemblyReference.cache
+D:\BaiTH1\BaiTH1\BuoiTH1\ThietKeForm\bin\Debug\ThietKeForm.exe.config
+D:\BaiTH1\BaiTH1\BuoiTH1\ThietKeForm\bin\Debug\ThietKeForm.exe
+D:\BaiTH1\BaiTH1\BuoiTH1\ThietKeForm\bin\Debug\ThietKeForm.pdb
+D:\BaiTH1\BaiTH1\BuoiTH1\ThietKeForm\obj\Debug\ThietKeForm.csproj.AssemblyReference.cache
+D:\BaiTH1\BaiTH1\BuoiTH1\ThietKeForm\obj\Debug\ThietKeForm.frm3.resources
+D:\BaiTH1\BaiTH1\BuoiTH1\ThietKeForm\obj\Debug\ThietKeForm.frm4.resources
+D:\BaiTH1\BaiTH1\BuoiTH1\ThietKeForm\obj\Debug\ThietKeForm.Form1.resources
+D:\BaiTH1\BaiTH1\BuoiTH1\ThietKeForm\obj\Debug\ThietKeForm.frm1.resources
+D:\BaiTH1\BaiTH1\BuoiTH1\ThietKeForm\obj\Debug\ThietKeForm.frm2.resources
+D:\BaiTH1\BaiTH1\BuoiTH1\ThietKeForm\obj\Debug\ThietKeForm.Properties.Resources.resources
+D:\BaiTH1\BaiTH1\BuoiTH1\ThietKeForm\obj\Debug\ThietKeForm.csproj.GenerateResource.cache
+D:\BaiTH1\BaiTH1\BuoiTH1\ThietKeForm\obj\Debug\ThietKeForm.csproj.CoreCompileInputs.cache
+D:\BaiTH1\BaiTH1\BuoiTH1\ThietKeForm\obj\Debug\ThietKeForm.exe
+D:\BaiTH1\BaiTH1\BuoiTH1\ThietKeForm\obj\Debug\ThietKeForm.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuoiTH1", "BuoiTH1\BuoiTH1.csproj", "{433313AF-D2EC-4533-9308-933A2A8E9EC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2", "Bai2\Bai2.csproj", "{472A1100-3816-4B6C-9F13-E825D2A62568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThietKeForm", "ThietKeForm\ThietKeForm.csproj", "{B943BE28-7C67-4603-BC0B-FEB30DE65241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{433313AF-D2EC-4533-9308-933A2A8E9EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433313AF-D2EC-4533-9308-933A2A8E9EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433313AF-D2EC-4533-9308-933A2A8E9EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433313AF-D2EC-4533-9308-933A2A8E9EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472A1100-3816-4B6C-9F13-E825D2A62568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472A1100-3816-4B6C-9F13-E825D2A62568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472A1100-3816-4B6C-9F13-E825D2A62568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472A1100-3816-4B6C-9F13-E825D2A62568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B943BE28-7C67-4603-BC0B-FEB30DE65241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B943BE28-7C67-4603-BC0B-FEB30DE65241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B943BE28-7C67-4603-BC0B-FEB30DE65241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B943BE28-7C67-4603-BC0B-FEB30DE65241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {041B96D8-0B27-4174-ABDC-23C32514EBC4}
+	EndGlobalSection
+EndGlobal
